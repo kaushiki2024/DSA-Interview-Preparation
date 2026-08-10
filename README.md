@@ -23,7 +23,6 @@ interview-oriented problems.
 - Stack
 - Dynamic Programming
 
-## 📂 Repository Structure
 
 ## 📂 Repository Structure
 
