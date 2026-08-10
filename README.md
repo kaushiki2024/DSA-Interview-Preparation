@@ -25,6 +25,9 @@ interview-oriented problems.
 
 ## 📂 Repository Structure
 
+## 📂 Repository Structure
+
+```text
 DSA-Interview-Preparation/
 │
 ├── 01_Number/
@@ -34,3 +37,4 @@ DSA-Interview-Preparation/
 ├── 05_Linked_List/
 ├── 06_Stack/
 └── 07_Dynamic_Programming/
+```
