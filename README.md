@@ -22,6 +22,7 @@ interview-oriented problems.
 - Linked Lists
 - Stack
 - Dynamic Programming
+- Trees
 
 
 ## 📂 Repository Structure
@@ -35,5 +36,6 @@ DSA-Interview-Preparation/
 ├── 04_String/
 ├── 05_Linked_List/
 ├── 06_Stack/
-└── 07_Dynamic_Programming/
+├── 07_Dynamic_Programming/
+└── 08_Tree/
 ```
