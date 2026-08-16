@@ -28,3 +28,27 @@ num = 38
 
 obj = Solution()
 print(obj.addDigits(num))
+
+# LeetCode 258: Add Digits
+#
+# Approach:
+# use the digital root formula
+# if num is 0, return 0
+# otherwise, return 1 + (num - 1) % 9
+#
+# Time Complexity: O(1)
+# Space Complexity: O(1)
+
+class Solution:
+    def addDigits(self, num: int) -> int:
+        if num == 0:
+            return 0
+
+        return 1 + (num - 1) % 9
+
+
+# Main
+num = 38
+
+obj = Solution()
+print(obj.addDigits(num))
